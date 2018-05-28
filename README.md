@@ -32,7 +32,7 @@ these should be installed or the font settings modified in `theme.lua`.
 
 ### Tag names on screenshots ###
 
-The numbering and "icons" on the screenshot come from FiraCode -font are simply
+The numbering and "icons" on the screenshot come from FiraCode -font and are simply
 tag names. If you want something similar they are these utf codes/characters:
 
 ```
