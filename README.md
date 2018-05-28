@@ -20,7 +20,7 @@ these should be installed or the font settings modified in `theme.lua`.
 
 ```
 2018-05-28
-    - cleaned reddish away
+    - cleaned redish away
 2018-04-11
     - added vertical bar (use boolean in theme.lua to change, defaults to vertical)
     - added more layout icons modified from default theme
