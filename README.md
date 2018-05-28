@@ -52,11 +52,8 @@ is a simple matter of using copy paste to ones personal config files.
 
 ## Licensing ##
 
-As a wallpaper this uses recoloured versions of the wallpaper from the beautiful
+As a wallpaper this uses recoloured version of the wallpaper from the beautiful
 [Joy](https://wiki.debian.org/DebianArt/Themes/Joy) theme authored by Adrien
 Aubourg and used in Debian Wheezy. The wallpapers there are licensed as GPLv2
 and thus wallpapers in this theme being derivative works are also licensed
 GPLv2. This theme is licensed GPLv2.
-
-Author Niko Humalamäki (nikohuma at gmail.com).
-
